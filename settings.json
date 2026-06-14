@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SMP.aternos.me:31819",
+    "ip": "Chicxo-SMP.aternos.me",
     "port": 31819,
-    "version": "",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
