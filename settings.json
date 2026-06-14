@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Chicxo-SMP.aternos.me",
-    "port": 31819,
+    "ip": "Chicxo-SMP.exaroton.me",
+    "port":  24903,
     "version": "26.1.2",
     "try-creative": false
   },
